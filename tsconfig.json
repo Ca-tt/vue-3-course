@@ -1,0 +1,11 @@
+{
+    "vueCompilerOptions": {
+        "plugins": [
+            "@volar/vue-language-plugin-pug"
+        ],
+    },
+    "compilerOptions": {
+        "allowJS": true,
+        "lib": ["ES2015", "DOM"]
+    },
+}
